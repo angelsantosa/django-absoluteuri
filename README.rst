@@ -6,6 +6,7 @@ django-absoluteuri
 
 Absolute URI functions and template tags for Django.
 
+Django 2.0 by https://github.com/kandziu
 
 Why
 ---
